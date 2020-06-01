@@ -24,11 +24,11 @@ type: **!play_tictactoe** (starts a game of tic tac toe)
 
 type: **!reset_tictactoe** (clears the tic tac toe board)
 
-type: **!play_x (followed by space you want to use) (for taking your turn)
+type: **!play_x** (followed by space you want to use) (for taking your turn)
 
-type: **!play_o (followed by space you want to use) (for taking your turn)
+type: **!play_o** (followed by space you want to use) (for taking your turn)
 
-type: **!play (followed by the sound effect you want to use)
+type: **!play** (followed by the sound effect you want to use)
 
 type: **!list_play** (prints into chat all the sound effects available)
 
