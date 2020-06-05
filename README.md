@@ -32,6 +32,17 @@ type: **!play** (followed by the sound effect you want to use)
 
 type: **!list_play** (prints into chat all the sound effects available)
 
+type: **!me** (this will return your current thicc, thinnie and thinnies invested in the bank )
+               (thicc points are the currency used to play sound effects)
+               (thinnies are points you get from the interest of your thicc points (0.2% interest rate) only use is to thiccen                     someone and give them respect for something cool)
+               (you have a saving account this is all the thinnies people have invested into you these have an interest rate 
+               of 500$ so maybe save up ;) become rich can withdraw 5 thinnies invested for 1 thicc point)
+               
+type: **thiccen** (followed by username of person you want to invest thinnies in) (followed by the amount of thinnies)
+
+type: **withdraw** (for 5 thinnies in your saving account you can withdraw converting 5 to 1 thicc points)
+     
+
 
 
 
