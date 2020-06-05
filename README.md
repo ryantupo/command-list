@@ -38,11 +38,11 @@ type: **!me** (this will return your current thicc, thinnie and thinnies investe
                (you have a saving account this is all the thinnies people have invested into you these have an interest rate 
                of 500$ so maybe save up ;) become rich can withdraw 5 thinnies invested for 1 thicc point)
                
-type: **thiccen** (followed by username of person you want to invest thinnies in) (followed by the amount of thinnies)
+type: **!thiccen** (followed by username of person you want to invest thinnies in) (followed by the amount of thinnies)
 
-type: **withdraw** (for 5 thinnies in your saving account you can withdraw converting 5 to 1 thicc points)
+type: **!withdraw** (for 5 thinnies in your saving account you can withdraw converting 5 to 1 thicc points)
 
-type: **donate** (this will randomly distribute all your thinnies to all of the chat :D )
+type: **!donate** (this will randomly distribute all your thinnies to all of the chat :D )
 
 
 
