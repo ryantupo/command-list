@@ -40,7 +40,7 @@ type: **!me** (this will return your current thicc, thinnie and thinnies investe
                
 type: **!thiccen** (followed by username of person you want to invest thinnies in) (followed by the amount of thinnies)
 
-type: **!withdraw** (for 5 thinnies in your saving account you can withdraw converting 5 to 1 thicc points)
+type: **!withdraw** (for 50 thinnies in your saving account you can withdraw converting 50 to 1 thicc points)
 
 type: **!donate** (this will randomly distribute all your thinnies to all of the chat :D )
 
